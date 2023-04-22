@@ -1,0 +1,17 @@
+
+
+.mantelA, .mantelB, .mantelC, .mantelD, .caraE, .caraF, .caraG, .caraH, .degradeI, .degradeJ, .degradeK, .degradeL{
+    width: 15em;
+    height: 15em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    border: 0.16em solid #000;
+}
+.mantelB {
+    mask-repeat: calc(8);
+    padding: 2em;
+    width: 11em;
+    height: 11em;
+}
